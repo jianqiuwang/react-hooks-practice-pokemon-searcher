@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "rex",
+      "hp": "50",
+      "sprites": {
+        "front": "https://toppng.com/uploads/preview/vulpix-16-bit-pokemon-sprite-115630497418jmknw0eba.png",
+        "back": "https://toppng.com/uploads/preview/vulpix-16-bit-pokemon-sprite-115630497418jmknw0eba.png"
+      },
+      "id": 151
     }
   ]
 }
